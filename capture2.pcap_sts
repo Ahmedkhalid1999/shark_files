@@ -1,0 +1,31 @@
+----- Network Traffic Analysis Report -----
+
+1. Total Packets: 7596 
+
+2. Protocols: 
+UDP : 2999
+TCP : 2401
+TLSv1.3 : 1782
+DNS : 260
+TLSv1.2 : 83
+TLSv1 : 54
+MDNS : 9
+SSDP : 4
+ARP : 4
+  :  
+
+3. Top 5 Source IP Addresses:
+142.250.203.238 : 2654
+192.168.1.7 : 2635
+172.217.171.197 : 399
+142.250.200.196 : 173
+142.251.37.195 : 136
+
+4. Top 5 Destination IP Addresses:
+192.168.1.7 : 4942
+142.250.203.238 : 786
+172.217.171.197 : 264
+192.168.1.1 : 132
+142.251.37.42 : 100
+
+----- End of Report -----

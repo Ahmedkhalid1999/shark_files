@@ -1,0 +1,30 @@
+----- Network Traffic Analysis Report -----
+1. Total Packets: 122 
+2. Protocols: 
+UDP : 114
+TCP : 4
+ARP : 4
+  :  
+3. Top 5 Source IP Addresses:
+192.168.1.7 : 51
+172.217.21.10 : 23
+216.239.32.116 : 15
+172.217.171.227 : 15
+216.58.211.202 : 12
+LiteonTe_4c:70:15 : 2
+HuaweiTe_cc:7d:07 : 2
+142.251.37.37 : 1
+108.159.102.116 : 1
+  :  
+4. Top 5 Destination IP Addresses:
+192.168.1.7 : 67
+172.217.21.10 : 23
+216.239.32.116 : 13
+172.217.171.227 : 8
+216.58.211.202 : 5
+HuaweiTe_cc:7d:07 : 2
+LiteonTe_4c:70:15 : 2
+142.251.37.37 : 1
+108.159.102.116 : 1
+  :  
+----- End of Report -----
