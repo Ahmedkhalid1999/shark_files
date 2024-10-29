@@ -193,9 +193,9 @@ done
 }
 ################ Application start
 
-echo -n "What is the name of your PCAP input file? "
-read in_pcap #get the pcap file name from user
-
+#echo -n "What is the name of your PCAP input file? "
+#read in_pcap #get the pcap file name from user
+in_pcap=$1
 tshark -r ~/shark_files/${in_pcap}  > ~/shark_files/temp.txt #change path due to your machine
 new=~/shark_files/${in_pcap}_sts #change path due to your machine
 touch $new
